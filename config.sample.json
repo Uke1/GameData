@@ -1,6 +1,6 @@
 {
 	"moby": {
-		"api_key" : "your-mobygames-api-key",
+		"api_key" : "moby_scqz7T59VJDm08Fr7gksOdEQVuZ",
 		"endpoint": "https://api.mobygames.com/v1",
 		"rate"    : 0.1
 	},
